@@ -5,7 +5,7 @@
 <h2>Главный разработчик и наставник группы №21: <a href="https://github.com/BoxDogRu">Владимир Руденко</a></h2>
 <hr>
 <h3>Студенты:<br><br>
-<p><a href="https://github.com/NikkyBricky">Николай Бунин</a></p>
-<p><a href="https://github.com/KocoyBot">Бекренёв Егор</a></p>
-<p>В последствии будут добавляться</p>
+<p style="margin-left:100px;"><a href="https://github.com/NikkyBricky">Николай Бунин</a></p>
+<p style="margin-left:100px;"><a href="https://github.com/KocoyBot">Бекренёв Егор</a></p>
+<p style="margin-left:100px;">В последствии будут добавляться</p>
 </h3>
