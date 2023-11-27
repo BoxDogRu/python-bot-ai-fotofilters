@@ -9,8 +9,8 @@
 
 <b><a href="https://github.com/KOKosaaaa">KOKosaaaa</a></b>
 
-NikkyBricky
+<b><a href="https://github.com/NikkyBricky">NikkyBricky</a></b>
 
 ...
 
-Коллеги, добавляйтесь!
+# Коллеги, добавляйтесь!
