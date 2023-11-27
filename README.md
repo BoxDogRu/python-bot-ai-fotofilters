@@ -5,7 +5,7 @@
 
 <b><a href="https://github.com/BoxDogRu">BoxDogRu</a> - наставник</b>
 
-KocoyBot
+<b><a href="https://github.com/KocoyBot">KocoyBot</a></b>
 
 <b><a href="https://github.com/KOKosaaaa">KOKosaaaa</a></b>
 
