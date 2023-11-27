@@ -80,6 +80,16 @@ class DolgovBlurFilter(Filter):
         blurred_image = image.filter(ImageFilter.BLUR)
         return blurred_image
 
+class ContourFilter(Filter):
+    def apply_to_image(self, image):
+        blurred_image = image.filter(ImageFilter.CONTOUR)
+        return blurred_image
+
+class EmbossFilter(Filter):
+    def apply_to_image(self, image):
+        blurred_image = image.filter(ImageFilter.EMBOSS)
+        return blurred_image
+
 
 class BekrenevReversFilter(Filter):
     def apply_to_image(self, img):
