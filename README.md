@@ -3,7 +3,7 @@
 <hr>
 <h2>Коллабораторы:</h2>
 
-BoxDogRu - наставник
+<a href="https://github.com/BoxDogRu">BoxDogRu</a> - наставник
 
 KocoyBot
 
