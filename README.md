@@ -7,7 +7,7 @@
 
 KocoyBot
 
-KOKosaaaa
+<b><a href="https://github.com/KOKosaaaa">KOKosaaaa</a></b>
 
 NikkyBricky
 
