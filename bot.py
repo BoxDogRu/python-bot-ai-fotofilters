@@ -23,7 +23,7 @@ filters: dict[str, Type[Filter]] = {
     "Красная маска от Захара": KirpichevRedFilter(),
     "Зеленая маска от Кирилла": OrlovGreenFilter(),
     "Рельеф от Николая": BuninEdgesFilter(),
-    "Контор фильтр": ContourFilter(),
+    "Контур фильтр": ContourFilter(),
     "Тиснение фильтр": EmbossFilter()
 }
 
