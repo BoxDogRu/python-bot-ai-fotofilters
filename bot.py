@@ -4,7 +4,7 @@ from random import randint
 
 import telebot      # Документация https://pypi.org/project/pyTelegramBotAPI/
 from filters import Filter  # BlueFilter, GreenFilter, InverseFilter, RedFilter
-from filters import DolgovBlurFilter, SopolevRandomFilter, BekrenevReversFilter, KirpichevRedFilter, OrlovGreenFilter, BuninEdgesFilter, ContourFilter, EmbossFilter
+from filters import DolgovBlurFilter, SopolevRandomFilter, BekrenevReversFilter, KirpichevRedFilter, OrlovGreenFilter, BuninEdgesFilter, ContourFilter
 from PIL import Image
 from telebot.types import KeyboardButton, ReplyKeyboardMarkup, Message
 
@@ -24,7 +24,6 @@ filters: dict[str, Type[Filter]] = {
     "Зеленая маска от Кирилла": OrlovGreenFilter(),
     "Рельеф от Николая": BuninEdgesFilter(),
     "Контур фильтр": ContourFilter(),
-    "Тиснение фильтр": EmbossFilter()
 }
 
 # Словарь для хранения последней пользовательской картинки
